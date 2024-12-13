@@ -7,7 +7,5 @@ I used pre-trained EfficientNetV2S model for feature extraction.
 
 Computer_Vision_Model.ipynb - Contains code for data preparation as well training the model.
 
-Computer_Vision_Application.ipynb - Contains code for utilizing the trained model for tracking a person presence. With a slight modification in the code can be used for a lot of applications.
-
 Trained model and training data is available here:
 https://drive.google.com/drive/folders/1n8E6Kf9NN56PoqyK8_q1osW3IQcW4fDm?usp=sharing
